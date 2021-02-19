@@ -1,0 +1,5 @@
+[control]
+ip-172-31-47-246.ec2.internal ansible_connection=local
+
+[loadBalancer]
+ip-172-31-5-157.ec2.internal
